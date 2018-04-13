@@ -1,0 +1,12 @@
+open 10.40.16.26
+kotamains
+kotam123#
+
+bin
+cd KOTA/kotachs/web
+mput  NapsDataSearch.jsp
+cd ../build/web
+mput NapsDataSearch.jsp
+
+bye
+
